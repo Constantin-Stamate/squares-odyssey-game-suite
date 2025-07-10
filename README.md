@@ -3,11 +3,15 @@
 </p>
 <p align="center"><b style="font-size: 22px; font-family: 'Times New Roman', serif;">Glory to the Olympic Heroes</b></p>
 
+---
+
 ## Table of Contents
 - [About](#-about)
 - [How to Build](#-how-to-build)
 - [Key Features](#-key-features)
 - [Contributors](#%EF%B8%8F-contributors)
+
+---
 
 ## 🏛️ About
 
@@ -19,13 +23,19 @@ The project was developed using **JavaFX**, **Maven**, and **Object-Oriented Pro
   <img src="src/main/resources/static/images/description/temple.png" alt="Game page"/>
 </p>
 
+---
+
 ## 🔱 How to Build
 
 To install the application, follow these steps:
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Constantin-Stamate/TheSquaresOdyssey
+1. **Clone this repository:**
+
+```bash
+  git clone https://github.com/Constantin-Stamate/TheSquaresOdyssey
+```
+
+---
 
 ## ⚡ Key Features
 
@@ -35,6 +45,8 @@ To install the application, follow these steps:
 <p align="center">
   <img src="src/main/resources/static/images/description/selection.png" alt="Selection page"/>
 </p>
+
+---
 
 2. **The Battle of Gods**  
    A strategic game where players must use logic and quick reflexes to prevail. The game generates a secret combination of 4 digits, and players must guess it. If they guess both the digit and its position correctly, they unlock a god. If they only guess the digit correctly, they unlock a goddess. Players have 7 attempts to guess the correct combination. Each successful guess brings players closer to mastering the divine power and winning the game.
@@ -57,6 +69,8 @@ To install the application, follow these steps:
   <img src="src/main/resources/static/images/description/defeat-battle.png" alt="Failure Battle page"/>
 </p>
 
+---
+
 5. **The Sliding Puzzle**  
    A test of mental agility and perseverance, inspired by the races and physical challenges of the Olympics. Players must rearrange tiles to form a complete image, using logic and strategic moves to solve the puzzle. The challenge increases as the difficulty level rises, testing both patience and skill. If the shuffle algorithm results in an odd number of inversions, the puzzle becomes unsolvable, and the player automatically loses. In this case, a new game session must be started to play again.
 
@@ -77,6 +91,8 @@ To install the application, follow these steps:
 <p align="center">
   <img src="src/main/resources/static/images/description/defeat-puzzle.png" alt="Failure Sliding page"/>
 </p>
+
+---
 
 8. **Memory Mastery**  
    A memory game reflecting the precision and focus required by Olympic archers. Players must flip over cards featuring symbols from ancient Greek Olympic games. If the revealed pair matches, it remains open — otherwise, the cards flip back down. The player has 15 attempts to find all the matching pairs and win the game. Each round tests memory, concentration, and attention to detail.
@@ -99,11 +115,12 @@ To install the application, follow these steps:
   <img src="src/main/resources/static/images/description/defeat-memory.png" alt="Failure Memory page"/>
 </p>
 
+---
+
 ## 🛡️ Contributors
 
-For any details related to the app, you can contact me anytime.
+Hi! I'm **Constantin**, the developer behind this project. If you like what you see or want to collaborate, reach out!
 
-<a href="https://github.com/Constantin-Stamate"><img src="https://avatars.githubusercontent.com/u/173792187?s=400&u=a7d867c53fbc3b0e988b72205f155a1bca7249ac&v=4" title="Stamate Constantin" width="60" height="60"></a>
-
-
-
+- GitHub: [Constantin-Stamate](https://github.com/Constantin-Stamate)
+- Email: [constantinstamate.r@gmail.com](mailto:constantinstamate.r@gmail.com)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/constantin-stamate-569546303)
