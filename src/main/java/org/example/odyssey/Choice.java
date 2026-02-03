@@ -105,4 +105,3 @@ public class Choice extends Application {
         launch(args);
     }
 }
-

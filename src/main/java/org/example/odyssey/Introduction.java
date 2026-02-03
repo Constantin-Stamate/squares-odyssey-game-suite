@@ -9,6 +9,7 @@ import javafx.scene.media.MediaView;
 import javafx.stage.Stage;
 
 public class Introduction extends Application {
+
     @Override
     public void start(Stage primaryStage) {
         Media media = new Media(getClass().getResource("/static/images/videos/video_intro.mp4").toExternalForm());

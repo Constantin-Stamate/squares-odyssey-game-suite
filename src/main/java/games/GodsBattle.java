@@ -479,10 +479,3 @@ public class GodsBattle extends Application {
         availableSymbols.removeAll(symbolsToRemove);
     }
 }
-
-
-
-
-
-
-
